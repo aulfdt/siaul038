@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siaul038
-- 👀 I’m interested in UI/UX Design
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in UI/UX Design and Data Science
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
